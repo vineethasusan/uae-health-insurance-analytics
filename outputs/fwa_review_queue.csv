@@ -1,0 +1,301 @@
+claim_id,provider_id,member_id,service_date,diagnosis,procedures,amount,score,reasons
+C0011579,P104,M03552,2025-11-20,O80,59400,9982.0,0.9936903365026063,Unusual cost and pattern for this diagnosis
+D0000309,P052,M10991,2025-12-07,O80,59400,9173.45,0.9792798960539962,Near-identical claim submitted within 3 days
+C0006260,P104,M01946,2025-10-18,O80,59400,8977.95,0.9936903365026063,Unusual cost and pattern for this diagnosis
+C0021553,P096,M06638,2025-12-09,S82.8,99284 73590 27786 82306 80053 85025 84443 86803 99285,8684.53,0.9888150834479067,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0004789,P048,M01497,2025-12-31,S82.8,99284 73590 27786 99213 99213 99285,8664.86,0.9877767613764454,Same service code billed more than once
+C0003277,P099,M01030,2025-11-05,S82.8,99284 73590 27786 82306 84443 80053 85025 99285,8628.86,0.9888150834479067,Provider orders far more tests than peers
+D0000240,P048,M02760,2025-12-15,O80,59409 59425 85025 85025,8485.31,0.9800374415983194,Delivery package billed as separate components; Near-identical claim submitted within 3 days; Same service code billed more than once
+C0008001,P048,M02479,2025-11-28,S82.8,99284 73590 27786 99213 99213 99285,7712.43,0.9888100902896597,Same service code billed more than once
+C0014335,P082,M04426,2025-12-21,S82.8,99284 73590 27786 99213 99213 99285,7643.88,0.9888100902896597,Same service code billed more than once; Provider bills high-level codes far more than peers
+D0000047,P002,M11286,2025-10-23,S82.8,99284 73590 27786 99285,8180.75,0.8766450111205983,Near-identical claim submitted within 3 days
+C0015825,P041,M04894,2025-09-11,S82.8,99284 73590 27786 99285,7149.94,0.9936903365026063,Unusual cost and pattern for this diagnosis
+C0004603,P096,M01441,2025-10-10,S82.8,99284 73590 27786 84443 80053 85025 82306,6804.67,0.9923533167408826,Provider orders far more tests than peers
+C0037903,P108,M11804,2025-12-07,S82.8,99284 73590 27786 85025 80053 82306 84443 86803,6793.68,0.9923533167408826,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0016682,P082,M05145,2025-09-24,S82.8,99284 73590 27786 99213 99213,6989.37,0.956533933266657,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0020197,P013,M06244,2025-11-03,S82.8,99284 73590 27786 99285,6711.7,0.9936903365026063,Unusual cost and pattern for this diagnosis
+C0022928,P099,M07090,2025-09-25,O80,59400 85025 86803 84443,10187.49,0.6539046539990229,Provider orders far more tests than peers
+D0000354,P004,M08123,2025-10-29,S82.8,99284 73590 27786 99285,8450.55,0.7827625135315607,Near-identical claim submitted within 3 days; Provider bills high-level codes far more than peers; Provider orders far more tests than peers
+C0024436,P108,M07564,2025-09-01,S82.8,99284 73590 27786 85025 84443 80053 86803 82306,6538.21,0.9911709479809587,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0009420,P085,M02887,2025-12-04,S82.8,99284 73590 27786 99213 99213,6588.75,0.9621833496698488,Same service code billed more than once
+C0023504,P085,M07256,2025-09-23,S82.8,99284 73590 27786 99213 99213,6511.25,0.9621833496698488,Same service code billed more than once
+C0018020,P085,M05550,2025-12-11,O80,59409 59425 85025 85025,9463.96,0.6600444484529705,Delivery package billed as separate components; Same service code billed more than once
+C0003670,P013,M01161,2025-10-27,S82.8,99284 73590 27786,6133.15,0.9936903365026063,Unusual cost and pattern for this diagnosis
+D0000299,P114,M08483,2025-12-22,S82.8,99284 73590 27786,6199.2,0.9766304983689651,Near-identical claim submitted within 3 days
+C0008712,P104,M02674,2025-10-17,S82.8,99284 73590 27786,6070.18,0.9936903365026063,Unusual cost and pattern for this diagnosis
+C0037400,P062,M11644,2025-12-24,S82.8,99284 73590 27786,6114.66,0.9792798960539962,Near-identical claim submitted within 3 days
+C0018734,P082,M05791,2025-10-31,O80,59409 59425 85025 85025,9650.81,0.6176985948060558,Delivery package billed as separate components; Same service code billed more than once; Provider bills high-level codes far more than peers
+C0032172,P041,M10037,2025-09-19,S82.8,99284 73590 27786,5880.75,0.9936903365026063,Unusual cost and pattern for this diagnosis
+C0028708,P104,M08973,2025-12-25,S82.8,99284 73590 27786,5862.09,0.9936903365026063,Unusual cost and pattern for this diagnosis
+C0010404,P035,M03198,2025-10-09,K21.9,99285 43235,5725.25,0.9829763094085207,Provider bills high-level codes far more than peers
+D0000205,P040,M04198,2025-09-19,S82.8,99284 73590 27786,5693.7,0.9792798960539962,Near-identical claim submitted within 3 days
+C0009549,P014,M02926,2025-11-26,M54.5,99285 97110 72100 72148,5536.95,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+D0000378,P097,M08762,2025-12-28,S82.8,99284 73590 27786,5619.27,0.9748919654313798,Near-identical claim submitted within 3 days
+D0000178,P116,M07238,2025-10-02,S82.8,99284 73590 27786,5602.11,0.9756999060890319,Near-identical claim submitted within 3 days
+C0011119,P096,M03419,2025-09-17,O80,59400 86803 85025 84443,9312.44,0.5815665195728009,Provider orders far more tests than peers
+C0013549,P048,M04207,2025-12-16,S82.8,99284 73590 27786 99213 99213,5860.91,0.923652373567187,Same service code billed more than once
+C0021256,P041,M06547,2025-09-07,S82.8,99284 73590 27786,5346.28,0.9936903365026063,Unusual cost and pattern for this diagnosis
+C0007672,P014,M02369,2025-12-06,K21.9,99285 43235,5336.93,0.9902175465310543,Provider bills high-level codes far more than peers
+C0037463,P076,M11657,2025-11-20,S82.8,99284 73590 27786,5569.95,0.9439135184356909,Near-identical claim submitted within 3 days; Provider bills high-level codes far more than peers
+C0021378,P041,M06583,2025-11-19,S82.8,99284 73590 27786,5289.3,0.9936903365026063,Unusual cost and pattern for this diagnosis
+C0002170,P014,M00682,2025-11-05,M54.5,99285 97110 72100 72148,5272.3,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+C0030303,P076,M09461,2025-09-07,M54.5,99285 97110 72100 72148,5260.34,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+C0026258,P035,M08174,2025-09-25,M54.5,99285 97110 72100 72148,5228.77,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+C0009599,P035,M02943,2025-11-29,M54.5,99285 97110 72100 72148,5190.83,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+C0007551,P007,M02344,2025-10-17,M54.5,99285 97110 72100 72148,5131.5,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+D0000245,P056,M04421,2025-12-20,S82.8,99284 73590 27786,5308.78,0.9601369050703259,Near-identical claim submitted within 3 days
+C0018171,P014,M05593,2025-10-02,M54.5,99285 97110 72100 72148,5104.63,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+C0030013,P104,M09381,2025-11-22,S82.8,99284 73590 27786,5018.66,0.9936903365026063,Unusual cost and pattern for this diagnosis
+D0000168,P035,M01114,2025-09-19,M54.5,99285 97110 72100 72148,4936.23,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Near-identical claim submitted within 3 days
+C0007122,P013,M02211,2025-12-07,S82.8,99284 73590 27786,5734.74,0.8522619077023483,Unusual cost and pattern for this diagnosis
+D0000265,P040,M02466,2025-12-26,S82.8,99284 73590 27786,5085.88,0.9601369050703259,Near-identical claim submitted within 3 days
+C0003517,P035,M01114,2025-09-19,M54.5,99285 97110 72100 72148,4879.13,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+C0038321,P099,M11913,2025-10-22,K21.9,99213 43235 80053 84443 82306 86803 85025,4819.43,0.992611267610901,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0008942,P041,M02734,2025-10-17,S82.8,99284 73590 27786,5833.77,0.8194375519445067,Unusual cost and pattern for this diagnosis
+C0022133,P104,M06830,2025-09-27,S82.8,99284 73590 27786 99285,6735.74,0.7088071236188809,Unusual cost and pattern for this diagnosis
+C0019967,P041,M06170,2025-12-24,S82.8,99284 73590 27786,5367.7,0.8845378017092478,Unusual cost and pattern for this diagnosis
+C0026222,P007,M08161,2025-10-30,K21.9,99285 43235,4769.26,0.9915218806123387,Provider bills high-level codes far more than peers
+C0004228,P014,M01333,2025-11-02,M54.5,99285 97110 72100 72148,4690.98,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+C0009337,P007,M02855,2025-10-04,S82.8,99284 73590 27786 85025 80053 99285,7787.29,0.5996438227761869,Provider bills high-level codes far more than peers
+C0000974,P013,M00303,2025-09-15,S82.8,99284 73590 27786,5215.18,0.8937452408868246,Unusual cost and pattern for this diagnosis
+C0020280,P041,M06265,2025-11-29,S82.8,99284 73590 27786,5484.3,0.8407273892414723,Unusual cost and pattern for this diagnosis
+C0007012,P013,M02175,2025-09-14,S82.8,99284 73590 27786,5258.44,0.8681859124405441,Unusual cost and pattern for this diagnosis
+C0023382,P013,M07220,2025-09-01,S82.8,99284 73590 27786,5091.14,0.8937452408868246,Unusual cost and pattern for this diagnosis
+C0009039,P048,M02760,2025-12-13,O80,59409 59425 85025 85025,8580.97,0.5288187454696199,Delivery package billed as separate components; Same service code billed more than once
+C0029558,P004,M09226,2025-11-20,K21.9,99213 43235 82306 86803 80053 85025,4563.7,0.992611267610901,Provider bills high-level codes far more than peers; Provider orders far more tests than peers
+C0008429,P007,M02597,2025-11-18,K21.9,99285 43235,4575.84,0.9855803475142806,Provider bills high-level codes far more than peers
+C0009319,P104,M02853,2025-11-23,S82.8,99284 73590 27786,5095.82,0.8845378017092478,Unusual cost and pattern for this diagnosis
+C0019732,P096,M06082,2025-10-17,K21.9,99213 43235 82306 84443 80053 85025,4499.84,0.992611267610901,Provider orders far more tests than peers
+C0010734,P076,M03298,2025-12-18,K21.9,99215 43235,4475.24,0.9915218806123387,Provider bills high-level codes far more than peers
+C0001536,P076,M00500,2025-12-26,K21.9,99215 43235,4472.07,0.9909591135970444,Provider bills high-level codes far more than peers
+C0020591,P007,M06344,2025-11-14,M54.5,99215 97110 72100 72148,4439.35,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+C0001217,P013,M00389,2025-10-16,S82.8,99284 73590 27786,5364.43,0.8194375519445067,Unusual cost and pattern for this diagnosis
+C0037499,P014,M11666,2025-11-05,M54.5,99215 97110 72100 72148,4402.83,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+C0025625,P082,M07957,2025-12-23,K21.9,99213 43235 99213 99213,4528.63,0.9635662268670009,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0013825,P014,M04285,2025-10-16,K21.9,99215 43235,4378.69,0.9915218806123387,Provider bills high-level codes far more than peers
+C0023751,P096,M07339,2025-10-18,K21.9,99213 43235 84443 86803 85025,4435.69,0.9779213691258474,Provider orders far more tests than peers
+C0032231,P048,M10052,2025-10-22,K21.9,99213 43235 99213 99213,4648.82,0.9272384075440967,Same service code billed more than once
+C0003609,P007,M01142,2025-10-26,M54.5,99215 97110 72100 72148,4308.74,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+C0015288,P099,M04736,2025-09-18,K21.9,99213 43235 84443 80053 86803,4347.77,0.9811436354129575,Provider orders far more tests than peers
+C0001605,P014,M00526,2025-10-15,K21.9,99215 43235,4260.24,0.9912381616705708,Provider bills high-level codes far more than peers
+C0028219,P082,M08816,2025-10-19,K21.9,99213 43235 99213 99213,4229.12,0.9659637627709735,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0033143,P108,M10344,2025-10-21,K21.9,99213 43235 85025 84443 80053 82306,4106.36,0.992611267610901,Provider orders far more tests than peers
+C0012269,P085,M03781,2025-11-20,K21.9,99213 43235 99213 99213,4165.36,0.9725024751911578,Same service code billed more than once
+C0017650,P108,M05432,2025-11-03,K21.9,99213 43235 84443 80053 86803,4283.85,0.943823562873279,Provider orders far more tests than peers
+C0022870,P104,M07068,2025-11-16,S82.8,99284 73590 27786,6287.29,0.6414196833856998,Unusual cost and pattern for this diagnosis
+C0014338,P076,M04427,2025-09-28,M54.5,99215 97110 72100 72148,4024.37,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+C0023902,P099,M07393,2025-12-02,K21.9,99213 43235 84443 80053 85025 82306,4019.87,0.9911950789279251,Provider orders far more tests than peers
+C0000368,P013,M00121,2025-09-12,K21.9,99213 43235,3988.51,0.9936903365026063,Unusual cost and pattern for this diagnosis
+C0002949,P041,M00914,2025-11-05,K21.9,99213 43235,3983.6,0.9936903365026063,Unusual cost and pattern for this diagnosis
+C0001325,P082,M00427,2025-11-24,K21.9,99213 43235 99213 99213,4096.9,0.9659637627709735,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0005973,P013,M01875,2025-12-01,S82.8,99284 73590 27786,6353.2,0.6209833677381783,Unusual cost and pattern for this diagnosis
+C0021410,P085,M06596,2025-09-03,K21.9,99213 43235 99213 99213,4056.54,0.9698899019798644,Same service code billed more than once
+C0032861,P089,M10260,2025-11-06,K21.9,99213 43235,4006.86,0.9670363156355527,Near-identical claim submitted within 3 days
+C0006795,P099,M02108,2025-10-21,K21.9,99213 43235 82306 84443 80053 86803 85025,3923.05,0.9824079285197497,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0029068,P041,M09076,2025-10-27,O80,59400,10842.16,0.35525000361318043,Unusual cost and pattern for this diagnosis
+C0014197,P096,M04397,2025-10-21,K21.9,99213 43235 80053 85025 86803 82306,3909.66,0.9824079285197497,Provider orders far more tests than peers
+C0024095,P041,M07453,2025-11-19,K21.9,99213 43235,3824.62,0.9936903365026063,Unusual cost and pattern for this diagnosis
+D0000368,P020,M00053,2025-12-10,K21.9,99213 43235,3872.76,0.9792798960539962,Near-identical claim submitted within 3 days
+D0000336,P022,M03860,2025-11-14,K21.9,99213 43235,3858.56,0.979664135992723,Near-identical claim submitted within 3 days
+C0017040,P104,M05250,2025-09-29,K21.9,99213 43235,3751.11,0.9936903365026063,Unusual cost and pattern for this diagnosis
+C0014787,P099,M04577,2025-09-10,K21.9,99213 43235 82306 86803 84443 85025,3741.33,0.9911709479809587,Provider orders far more tests than peers
+D0000232,P043,M11815,2025-11-14,K21.9,99213 43235,3760.45,0.9792798960539962,Near-identical claim submitted within 3 days
+C0019134,P013,M05904,2025-09-14,K21.9,99213 43235,3684.33,0.9936903365026063,Unusual cost and pattern for this diagnosis
+C0018478,P014,M05698,2025-10-11,M54.5,99215 97110 72100 72148,3621.53,0.9956050144410352,High-level consultation billed for a simple diagnosis; MRI billed for routine back pain; Provider bills high-level codes far more than peers
+C0004346,P013,M01358,2025-11-11,K21.9,99213 43235,3604.01,0.9936903365026063,Unusual cost and pattern for this diagnosis
+C0031736,P048,M09905,2025-11-30,K21.9,99213 43235 99213 99213,3699.7,0.9507370395546096,Same service code billed more than once
+D0000093,P080,M03004,2025-12-01,K21.9,99213 43235,3634.49,0.9623213845766161,Near-identical claim submitted within 3 days
+C0036829,P078,M11471,2025-12-07,K21.9,99213 43235,3555.66,0.9792798960539962,Near-identical claim submitted within 3 days
+C0025704,P069,M07989,2025-11-03,K21.9,99213 43235 85025 80053,3971.86,0.8681276591108192,Near-identical claim submitted within 3 days
+D0000305,P062,M03474,2025-10-29,K21.9,99213 43235,3547.0,0.9689265090224137,Near-identical claim submitted within 3 days
+C0011133,P021,M03423,2025-11-25,K21.9,99213 43235,3490.96,0.9792798960539962,Near-identical claim submitted within 3 days
+D0000312,P111,M10823,2026-01-01,K21.9,99213 43235,3478.65,0.9792798960539962,Near-identical claim submitted within 3 days
+D0000090,P114,M06223,2025-12-03,K21.9,99213 43235,3732.2,0.8970927411299933,Near-identical claim submitted within 3 days
+C0006757,P032,M02097,2025-11-15,K21.9,99213 43235,3411.24,0.9766304983689651,Near-identical claim submitted within 3 days
+C0032713,P108,M10212,2025-10-17,O80,59400,10898.72,0.3033406554655464,Provider orders far more tests than peers
+C0033236,P065,M10371,2025-09-11,K21.9,99213 43235,3380.31,0.9766304983689651,Near-identical claim submitted within 3 days
+C0038108,P049,M11860,2025-12-18,K21.9,99213 43235 85025 80053,3357.55,0.9601369050703259,Near-identical claim submitted within 3 days
+D0000018,P079,M02389,2025-12-18,K21.9,99213 43235,3288.6,0.9792798960539962,Near-identical claim submitted within 3 days
+C0016189,P041,M05004,2025-12-24,K21.9,99213 43235,3156.31,0.9936903365026063,Unusual cost and pattern for this diagnosis
+D0000343,P107,M04642,2025-12-31,K21.9,99213 43235,3227.27,0.9565486091155074,Near-identical claim submitted within 3 days
+D0000035,P060,M01576,2025-09-11,K21.9,99213 43235,3132.75,0.9792798960539962,Near-identical claim submitted within 3 days
+C0004972,P085,M01551,2025-11-24,K21.9,99213 43235 85025 80053,3571.17,0.7681378788018155,Unusual cost and pattern for this diagnosis
+C0008452,P041,M02602,2025-09-19,K21.9,99213 43235,3510.91,0.7753575582620839,Unusual cost and pattern for this diagnosis
+C0016830,P013,M05188,2025-12-23,K21.9,99213 43235,3187.58,0.853381033940982,Unusual cost and pattern for this diagnosis
+C0016401,P041,M05072,2025-10-23,K21.9,99213 43235,3991.8,0.6346384908603733,Unusual cost and pattern for this diagnosis
+C0016028,P104,M04947,2025-12-13,K21.9,99213 43235,3286.06,0.7603247078404272,Unusual cost and pattern for this diagnosis
+C0005462,P041,M01687,2025-12-14,K21.9,99213 43235,3588.09,0.6936954455460718,Unusual cost and pattern for this diagnosis
+C0003131,P076,M00980,2025-12-19,E11.9,99285 83036 80053 85025 80053,2388.8,0.9956050144410352,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0015323,P076,M04750,2025-09-17,I10,99285 93000 85025 80053,2368.73,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0031520,P007,M09832,2025-12-15,E11.9,99285 83036 80053,2343.39,0.9956050144410352,Provider bills high-level codes far more than peers
+C0019924,P041,M06151,2025-09-15,K21.9,99213 43235,3980.87,0.5813930080815118,Unusual cost and pattern for this diagnosis
+C0020042,P007,M06193,2025-10-17,E11.9,99285 83036 80053,2288.82,0.9956050144410352,Provider bills high-level codes far more than peers
+C0021434,P076,M06605,2025-10-28,J45.9,99285 94010,2241.25,0.9956050144410352,Provider bills high-level codes far more than peers
+C0003616,P014,M01143,2025-10-03,I10,99285 93000,2229.66,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0016084,P076,M04969,2025-09-09,E11.9,99285 83036 80053,2226.42,0.9956050144410352,Provider bills high-level codes far more than peers
+C0021768,P035,M06715,2025-10-12,J45.9,99285 94010,2192.98,0.9956050144410352,Provider bills high-level codes far more than peers
+C0007344,P035,M02278,2025-12-02,I10,99285 93000 85025 80053,2188.13,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0012168,P104,M03728,2025-09-11,K21.9,99213 43235,3722.02,0.5813930080815118,Unusual cost and pattern for this diagnosis
+C0005900,P035,M01847,2025-12-28,J06.9,99285 87880,2167.59,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0012045,P013,M03696,2025-10-18,K21.9,99213 43235,3869.49,0.5559769555606948,Unusual cost and pattern for this diagnosis
+C0009114,P014,M02787,2025-09-03,J45.9,99285 94010 85025 80053,2160.15,0.9956050144410352,Provider bills high-level codes far more than peers
+C0008981,P014,M02744,2025-11-18,J06.9,99285 87880,2159.36,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0009751,P007,M02993,2025-10-11,I10,99285 93000,2147.75,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0018248,P014,M05622,2025-09-26,J45.9,99285 94010,2133.82,0.9956050144410352,Provider bills high-level codes far more than peers
+C0007113,P014,M02209,2025-09-13,J06.9,99285 87880,2131.0,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0022556,P007,M06966,2025-10-11,E11.9,99285 83036 80053,2115.33,0.9956050144410352,Provider bills high-level codes far more than peers
+C0016339,P035,M05049,2025-10-02,J45.9,99285 94010,2110.82,0.9956050144410352,Provider bills high-level codes far more than peers
+C0005824,P035,M01821,2025-12-28,E11.9,99285 83036 80053,2109.82,0.9956050144410352,Provider bills high-level codes far more than peers
+C0029161,P007,M09100,2025-10-27,E11.9,99285 83036 80053,2098.24,0.9956050144410352,Provider bills high-level codes far more than peers
+C0007673,P014,M02369,2025-12-29,J45.9,99285 94010,2077.95,0.9956050144410352,Provider bills high-level codes far more than peers
+C0034614,P014,M10814,2025-09-26,E11.9,99285 83036 80053,2073.13,0.9956050144410352,Provider bills high-level codes far more than peers
+C0022853,P007,M07062,2025-09-14,J06.9,99285 87880,2072.14,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0032214,P007,M10046,2025-10-13,J06.9,99285 87880,2066.78,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0031896,P035,M09943,2025-09-26,J45.9,99285 94010 85025 80053,2060.47,0.9956050144410352,Provider bills high-level codes far more than peers
+C0032437,P035,M10129,2025-12-13,J45.9,99285 94010,2059.84,0.9956050144410352,Provider bills high-level codes far more than peers
+C0008228,P076,M02536,2025-11-19,I10,99285 93000,2059.71,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0012118,P099,M03719,2025-11-15,S82.8,99284 73590 27786 99285,6664.18,0.30614808031429624,Provider orders far more tests than peers
+C0029338,P014,M09158,2025-09-06,N39.0,99285 81001 87086,2043.21,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0028495,P035,M08900,2025-12-03,N39.0,99285 81001 87086,2042.33,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0033413,P014,M10424,2025-10-20,J45.9,99285 94010,2032.87,0.9956050144410352,Provider bills high-level codes far more than peers
+C0004928,P035,M01535,2025-11-03,J45.9,99285 94010,2030.54,0.9956050144410352,Provider bills high-level codes far more than peers
+C0026888,P048,M08380,2025-12-23,K21.9,99213 43235,3652.65,0.5529760893191643,Unusual cost and pattern for this diagnosis
+C0016636,P014,M05130,2025-09-17,J06.9,99285 87880,2022.64,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0007519,P007,M02331,2025-09-23,J45.9,99285 94010,2014.62,0.9956050144410352,Provider bills high-level codes far more than peers
+C0021149,P035,M06513,2025-10-29,E11.9,99285 83036 80053,2011.62,0.9956050144410352,Provider bills high-level codes far more than peers
+C0022454,P014,M06942,2025-11-25,I10,99285 93000,2011.41,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0011408,P014,M03508,2025-12-21,E11.9,99285 83036 80053,1998.5,0.9956050144410352,Provider bills high-level codes far more than peers
+C0007289,P007,M02264,2025-12-16,I10,99285 93000,1997.43,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0015106,P014,M04680,2025-09-11,J06.9,99285 87880,1964.53,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0032598,P007,M10174,2025-11-27,E11.9,99285 83036 80053,1948.81,0.9956050144410352,Provider bills high-level codes far more than peers
+C0010044,P014,M03082,2025-11-16,N39.0,99285 81001 87086,1945.27,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0018060,P041,M05561,2025-12-03,K21.9,99213 43235,3279.58,0.5878931514778933,Unusual cost and pattern for this diagnosis
+C0034524,P076,M10788,2025-09-06,N39.0,99285 81001 87086,1922.26,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0033548,P014,M10462,2025-11-26,J45.9,99285 94010,1912.87,0.9956050144410352,Provider bills high-level codes far more than peers
+C0013860,P007,M04296,2025-09-04,I10,99285 93000,1906.13,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0022101,P007,M06823,2025-09-18,N39.0,99285 81001 87086,1884.97,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0023192,P014,M07161,2025-12-09,E11.9,99285 83036 80053,1880.24,0.9956050144410352,Provider bills high-level codes far more than peers
+C0028335,P108,M08852,2025-10-21,O80,59400 82306 84443 86803,10884.59,0.1708482347218057,Provider orders far more tests than peers
+C0030994,P076,M09660,2025-10-10,R51,99285,1863.03,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0001419,P014,M00461,2025-10-18,I10,99285 93000,1853.75,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0031100,P104,M09695,2025-09-12,K21.9,99213 43235,3687.44,0.49741958286520055,Unusual cost and pattern for this diagnosis
+C0027801,P014,M08681,2025-10-25,I10,99285 93000,1830.66,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0014153,P076,M04377,2025-10-09,J45.9,99285 94010,1820.86,0.9956050144410352,Provider bills high-level codes far more than peers
+C0010751,P007,M03303,2025-11-06,J06.9,99285 87880,1820.03,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0033864,P035,M10560,2025-12-29,J06.9,99285 87880,1812.83,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0023183,P007,M07158,2025-09-06,R51,99285,1805.84,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0031895,P035,M09943,2025-09-19,J06.9,99285 87880,1730.04,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0004693,P007,M01471,2025-12-22,J06.9,99285 87880,1728.74,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0029034,P085,M09063,2025-10-15,M54.5,99213 97110 72100 99213 99213,1718.89,0.995385931642278,Same service code billed more than once
+C0017867,P014,M05489,2025-09-26,J06.9,99285 87880,1712.36,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0029145,P082,M09098,2025-12-23,J45.9,99214 94010 99213 99213 85025 80053,1711.02,0.9956050144410352,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0020004,P108,M06179,2025-10-09,M54.5,99213 97110 72100 86803 85025 80053 82306 84443,1708.66,0.9953431099968018,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0000171,P099,M00063,2025-10-06,M54.5,99213 97110 72100 82306 80053 85025 86803,1708.47,0.9953431099968018,Provider orders far more tests than peers
+C0028927,P099,M09038,2025-11-21,M54.5,99213 97110 72100 85025 84443 86803 80053 82306,1702.62,0.9953431099968018,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0008434,P108,M02597,2025-09-25,I10,99213 93000 84443 82306 86803 85025 80053 85025 80053,1688.04,0.9956050144410352,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+D0000019,P108,M02597,2025-09-25,I10,99213 93000 84443 82306 86803 85025 80053 85025 80053,1686.76,0.9956050144410352,Near-identical claim submitted within 3 days; Same service code billed more than once; Lab tests far beyond what the diagnosis needs
+C0018971,P048,M05865,2025-10-20,M54.5,99213 97110 72100 99213 99213,1685.54,0.995385931642278,Same service code billed more than once
+C0013394,P099,M04144,2025-12-29,E11.9,99214 83036 80053 86803 80053 85025 84443 82306,1678.74,0.9956050144410352,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0016195,P004,M05004,2025-11-15,M54.5,99213 97110 72100 82306 80053 86803,1679.15,0.9953431099968018,Provider bills high-level codes far more than peers; Provider orders far more tests than peers
+C0018844,P108,M05824,2025-09-08,M54.5,99213 97110 72100 85025 80053 86803 84443,1667.61,0.9952971563715678,Provider orders far more tests than peers
+C0020662,P035,M06364,2025-12-08,R51,99285,1662.8,0.9956050144410352,High-level consultation billed for a simple diagnosis; Provider bills high-level codes far more than peers
+C0025490,P096,M07909,2025-12-08,M54.5,99213 97110 72100 80053 82306 84443 86803 85025,1656.33,0.9952971563715678,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0031775,P096,M09913,2025-10-24,J45.9,99214 94010 86803 84443 82306 85025 80053,1647.79,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0038313,P082,M11912,2025-12-11,M54.5,99213 97110 72100 99213 99213,1652.07,0.9928223290884176,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0000320,P099,M00107,2025-10-31,M54.5,99213 97110 72100 84443 80053 86803 85025,1639.6,0.9952971563715678,Provider orders far more tests than peers
+C0028881,P004,M09021,2025-10-05,J45.9,99214 94010 80053 85025 82306 86803 84443,1628.63,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider bills high-level codes far more than peers; Provider orders far more tests than peers
+C0026677,P096,M08310,2025-11-24,M54.5,99213 97110 72100 80053 84443 82306 86803,1629.49,0.9950015644347254,Provider orders far more tests than peers
+C0015174,P096,M04699,2025-11-08,E11.9,99214 83036 80053 80053 85025 82306 86803 84443,1624.79,0.9956050144410352,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0029889,P108,M09332,2025-10-23,S82.8,99284 73590 27786 99285,6757.54,0.23497006200587167,Provider orders far more tests than peers
+C0001019,P108,M00313,2025-10-30,J45.9,99214 94010 84443 82306 80053 86803 85025,1590.34,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0031923,P099,M09956,2025-11-03,J45.9,99214 94010 85025 84443 86803 80053 82306 85025 80053,1590.25,0.9956050144410352,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0010289,P082,M03159,2025-12-26,M54.5,99213 97110 72100 99213 99213,1581.73,0.9951295216941335,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0002509,P013,M00792,2025-10-30,K21.9,99213 43235,3471.65,0.4503539614516085,Unusual cost and pattern for this diagnosis
+C0007916,P108,M02458,2025-11-17,J45.9,99214 94010 86803 80053 84443 85025 85025 80053,1565.4,0.9956050144410352,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0004128,P099,M01304,2025-12-01,M54.5,99213 97110 72100 84443 82306 86803 85025 80053,1568.15,0.9929236717126435,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0033758,P108,M10529,2025-09-25,J45.9,99214 94010 86803 85025 84443 82306 80053,1552.68,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+D0000250,P085,M06554,2025-10-26,M54.5,99213 97110 72100 99213 99213,1547.47,0.9931454283028863,Same service code billed more than once
+C0016838,P096,M05190,2025-12-24,M54.5,99213 97110 72100 85025 86803 80053 82306 84443,1542.21,0.9927310670352361,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0026275,P085,M08180,2025-11-09,M54.5,99213 97110 72100 99213 99213,1519.48,0.992958816631035,Same service code billed more than once
+C0031280,P099,M09753,2025-11-02,E11.9,99214 83036 80053 82306 80053 84443 85025 86803,1510.28,0.9956050144410352,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0029728,P048,M09279,2025-10-28,E11.9,99214 83036 80053 99213 99213,1508.55,0.9956050144410352,Same service code billed more than once
+C0021292,P085,M06554,2025-10-26,M54.5,99213 97110 72100 99213 99213,1571.54,0.95474170760378,Near-identical claim submitted within 3 days; Same service code billed more than once
+C0003846,P048,M01215,2025-12-31,E11.9,99214 83036 80053 99213 99213,1496.18,0.9956050144410352,Same service code billed more than once
+C0032441,P085,M10131,2025-12-16,E11.9,99214 83036 80053 99213 99213,1492.37,0.9956050144410352,Same service code billed more than once
+C0029793,P096,M09295,2025-11-21,J45.9,99214 94010 80053 85025 86803 82306,1485.31,0.9956050144410352,Provider orders far more tests than peers
+C0020580,P082,M06340,2025-09-03,E11.9,99214 83036 80053 99213 99213,1482.12,0.9956050144410352,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0007825,P048,M02430,2025-10-31,E11.9,99214 83036 80053 99213 99213,1478.04,0.9956050144410352,Same service code billed more than once
+C0022082,P085,M06819,2025-12-21,E11.9,99214 83036 80053 99213 99213,1474.58,0.9956050144410352,Same service code billed more than once
+C0005076,P085,M01579,2025-10-07,M54.5,99213 97110 72100 99213 99213,1473.02,0.9926287840519887,Same service code billed more than once
+C0023918,P048,M07398,2025-12-01,E11.9,99214 83036 80053 99213 99213,1468.23,0.9956050144410352,Same service code billed more than once
+C0031075,P048,M09688,2025-09-25,E11.9,99214 83036 80053 99213 99213,1467.7,0.9956050144410352,Same service code billed more than once
+C0035468,P096,M11088,2025-10-08,I10,99213 93000 84443 80053 82306 86803 85025 80053,1465.31,0.9956050144410352,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0017906,P108,M05506,2025-12-18,E11.9,99214 83036 80053 86803 80053 84443 85025,1464.5,0.9956050144410352,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0012049,P085,M03697,2025-09-22,E11.9,99214 83036 80053 99213 99213,1461.18,0.9956050144410352,Same service code billed more than once
+C0017488,P085,M05381,2025-10-04,J45.9,99214 94010 99213 99213,1454.84,0.9956050144410352,Same service code billed more than once
+C0000613,P099,M00185,2025-12-07,J45.9,99214 94010 86803 82306 85025 80053 84443,1453.73,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0004105,P004,M01297,2025-12-03,J45.9,99214 94010 85025 84443 86803 80053 82306,1453.68,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider bills high-level codes far more than peers; Provider orders far more tests than peers
+C0014986,P085,M04641,2025-09-29,E11.9,99214 83036 80053 99213 99213,1452.16,0.9956050144410352,Same service code billed more than once
+C0003030,P085,M00943,2025-09-21,M54.5,99213 97110 72100 99213 99213,1451.11,0.9926287840519887,Same service code billed more than once
+C0034647,P108,M10827,2025-11-06,N39.0,99213 81001 87086 86803 80053 82306 85025 84443,1441.0,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0027019,P007,M08424,2025-12-28,K21.9,99213 43235,3979.6,0.3598592436667868,Provider bills high-level codes far more than peers
+C0027216,P085,M08501,2025-11-09,J45.9,99214 94010 99213 99213,1437.22,0.9956050144410352,Same service code billed more than once
+C0000399,P099,M00129,2025-12-30,J45.9,99214 94010 84443 85025 86803 82306,1431.66,0.9956050144410352,Provider orders far more tests than peers
+C0013896,P085,M04305,2025-10-27,E11.9,99214 83036 80053 99213 99213,1429.38,0.9956050144410352,Same service code billed more than once
+C0033155,P004,M10348,2025-11-24,E11.9,99214 83036 80053 85025 84443 86803 80053 82306,1427.78,0.9956050144410352,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider bills high-level codes far more than peers
+C0019964,P108,M06169,2025-12-04,M54.5,99213 97110 72100 82306 86803 85025,1431.43,0.9925375786263195,Provider orders far more tests than peers
+C0016994,P085,M05244,2025-12-31,E11.9,99214 83036 80053 99213 99213,1426.03,0.9956050144410352,Same service code billed more than once
+C0034390,P085,M10737,2025-12-12,E11.9,99214 83036 80053 99213 99213,1424.79,0.9956050144410352,Same service code billed more than once
+C0013065,P099,M04036,2025-11-15,J45.9,99214 94010 80053 85025 86803 84443 82306,1424.74,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0036564,P099,M11380,2025-10-20,M54.5,99213 97110 72100 86803 84443 85025,1431.63,0.9851105927317544,Provider orders far more tests than peers
+C0029945,P048,M09355,2025-09-29,E11.9,99214 83036 80053 99213 99213,1415.99,0.994938118256566,Same service code billed more than once
+C0034288,P099,M10704,2025-12-21,E11.9,99214 83036 80053 80053 85025 86803 82306 84443,1412.35,0.9948818212721366,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0031903,P099,M09946,2025-11-03,J45.9,99214 94010 82306 85025 84443 86803,1411.05,0.9956050144410352,Provider orders far more tests than peers
+C0031371,P099,M09784,2025-12-15,J45.9,99214 94010 86803 84443 85025 80053 82306,1405.94,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0023404,P082,M07229,2025-12-04,J45.9,99214 94010 99213 99213,1403.72,0.9956050144410352,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0004273,P082,M01344,2025-09-03,E11.9,99214 83036 80053 99213 99213,1397.98,0.9940373450020715,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0001168,P048,M00369,2025-09-23,J45.9,99214 94010 99213 99213,1394.51,0.9956050144410352,Same service code billed more than once
+C0002355,P082,M00736,2025-12-07,J45.9,99214 94010 99213 99213,1393.79,0.9956050144410352,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0030204,P104,M09431,2025-12-10,O80,59400,10084.92,0.1372611483732467,Unusual cost and pattern for this diagnosis
+C0003640,P048,M01150,2025-12-27,E11.9,99214 83036 80053 99213 99213,1390.6,0.9944400682259195,Same service code billed more than once
+C0035201,P099,M10994,2025-10-14,I10,99213 93000 86803 82306 84443 80053 85025,1385.0,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0032904,P041,M10276,2025-09-04,K21.9,99213 43235,3603.05,0.38263835254083545,Unusual cost and pattern for this diagnosis
+C0015476,P082,M04794,2025-10-03,J45.9,99214 94010 99213 99213,1384.57,0.9956050144410352,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0034407,P048,M10743,2025-12-05,I10,99213 93000 99213 99213 85025 80053,1384.28,0.9956050144410352,Same service code billed more than once
+C0005515,P085,M01701,2025-11-13,E11.9,99214 83036 80053 99213 99213,1384.89,0.9949605646736952,Same service code billed more than once
+C0033267,P004,M10378,2025-11-17,E11.9,99214 83036 80053 80053 85025 84443 86803 82306,1383.47,0.9948818212721366,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider bills high-level codes far more than peers
+C0027790,P082,M08678,2025-09-24,E11.9,99214 83036 80053 99213 99213,1379.45,0.9952543907459428,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0019889,P004,M06137,2025-11-09,J45.9,99214 94010 86803 80053 82306 85025,1378.94,0.9956050144410352,Provider bills high-level codes far more than peers; Provider orders far more tests than peers
+C0031971,P108,M09970,2025-09-08,E11.9,99214 83036 80053 85025 84443 80053 82306 86803,1379.04,0.9948818212721366,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0038406,P085,M11936,2025-12-21,J45.9,99214 94010 99213 99213,1374.86,0.9956050144410352,Same service code billed more than once
+C0020408,P048,M06296,2025-10-16,E11.9,99214 83036 80053 99213 99213,1370.33,0.9944400682259195,Same service code billed more than once
+D0000332,P007,M02264,2025-12-23,E11.9,99215 83036 80053 85025 80053,1368.28,0.994014195141802,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0010247,P099,M03148,2025-11-17,N39.0,99213 81001 87086 84443 85025 82306 80053 86803,1363.22,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0013616,P099,M04230,2025-10-05,I10,99213 93000 80053 82306 85025 84443 86803,1358.39,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0007285,P007,M02264,2025-12-23,E11.9,99215 83036 80053 85025 80053,1358.44,0.9943691281183403,Near-identical claim submitted within 3 days; Same service code billed more than once; Provider bills high-level codes far more than peers
+C0018829,P082,M05821,2025-12-25,J45.9,99214 94010 99213 99213,1352.83,0.9956050144410352,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0033208,P004,M10365,2025-11-24,E11.9,99214 83036 80053 80053 86803 82306,1347.28,0.9953404851679005,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider bills high-level codes far more than peers
+C0030436,P108,M09509,2025-09-03,J45.9,99214 94010 85025 82306 80053 86803 84443,1344.44,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0031988,P108,M09976,2025-09-01,N39.0,99213 81001 87086 80053 85025 86803 84443 82306,1339.69,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0011263,P048,M03460,2025-09-29,J45.9,99214 94010 99213 99213,1337.93,0.9956050144410352,Same service code billed more than once
+C0015444,P082,M04783,2025-09-20,J45.9,99214 94010 99213 99213,1337.71,0.9956050144410352,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0004486,P048,M01405,2025-09-11,J45.9,99214 94010 99213 99213,1334.44,0.9956050144410352,Same service code billed more than once
+C0031347,P096,M09779,2025-09-04,J45.9,99214 94010 80053 86803 84443,1332.85,0.9956050144410352,Provider orders far more tests than peers
+C0013148,P082,M04064,2025-12-29,J45.9,99214 94010 99213 99213,1324.39,0.9956050144410352,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0017528,P108,M05400,2025-09-02,J45.9,99214 94010 84443 82306 80053 85025,1322.18,0.9956050144410352,Provider orders far more tests than peers
+C0013209,P096,M04081,2025-11-29,J45.9,99214 94010 80053 86803 82306 85025,1319.6,0.9956050144410352,Provider orders far more tests than peers
+C0031502,P082,M09827,2025-09-16,J45.9,99214 94010 99213 99213,1313.43,0.9956050144410352,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0023663,P108,M07311,2025-12-07,E11.9,99214 83036 80053 80053 84443 86803 85025,1311.62,0.9952945057636233,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0020516,P082,M06323,2025-10-19,J45.9,99214 94010 99213 99213,1301.36,0.9950851230660441,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0021753,P004,M06711,2025-12-28,E11.9,99214 83036 80053 86803 80053 85025 82306,1302.66,0.9940194387568665,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider bills high-level codes far more than peers
+C0038509,P004,M11966,2025-11-13,N39.0,99213 81001 87086 80053 82306 85025 84443 86803,1298.09,0.9956050144410352,Lab tests far beyond what the diagnosis needs; Provider bills high-level codes far more than peers; Provider orders far more tests than peers
+C0000744,P085,M00233,2025-12-08,J45.9,99214 94010 99213 99213,1297.99,0.9950851230660441,Same service code billed more than once
+C0001746,P048,M00568,2025-12-07,J45.9,99214 94010 99213 99213,1294.09,0.9951069208107133,Same service code billed more than once
+C0007215,P082,M02241,2025-12-30,J45.9,99214 94010 99213 99213,1289.89,0.9950851230660441,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0018202,P048,M05610,2025-09-25,J45.9,99214 94010 99213 99213,1288.49,0.9950851230660441,Same service code billed more than once
+C0033673,P082,M10500,2025-09-25,E11.9,99214 83036 80053 99213 99213,1294.1,0.9872272342265395,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0030658,P004,M09564,2025-11-17,J45.9,99214 94010 82306 84443 86803 80053,1281.68,0.9953431099968018,Provider bills high-level codes far more than peers; Provider orders far more tests than peers
+C0011481,P096,M03529,2025-10-25,E11.9,99214 83036 80053 86803 80053 85025,1279.88,0.9949987480629559,Same service code billed more than once; Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers
+C0010894,P082,M03350,2025-11-08,J45.9,99214 94010 99213 99213,1277.78,0.9950851230660441,Same service code billed more than once; Provider bills high-level codes far more than peers
+C0005440,P048,M01684,2025-12-31,J06.9,99213 87880 99213 99213 85025 80053,1276.81,0.9956050144410352,Same service code billed more than once
+C0022562,P099,M06970,2025-12-08,J45.9,99214 94010 82306 80053 86803,1276.59,0.9949634024389619,Provider orders far more tests than peers

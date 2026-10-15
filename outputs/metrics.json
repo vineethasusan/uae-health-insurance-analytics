@@ -1,0 +1,99 @@
+{
+  "fwa": {
+    "test_claims": 13106,
+    "fwa_rate": 0.0664,
+    "fwa_aed_in_test": 1240882,
+    "model": {
+      "claims_reviewed": 655,
+      "precision": 0.858,
+      "fwa_claims_found": 562,
+      "fwa_claims_total": 870,
+      "aed_caught": 1086574,
+      "share_of_fwa_aed": 0.8756,
+      "net_saving_aed": 988324
+    },
+    "model_by_probability": {
+      "claims_reviewed": 655,
+      "precision": 0.9786,
+      "fwa_claims_found": 641,
+      "fwa_claims_total": 870,
+      "aed_caught": 788736,
+      "share_of_fwa_aed": 0.6356,
+      "net_saving_aed": 690486
+    },
+    "rules": {
+      "claims_reviewed": 655,
+      "precision": 0.5954,
+      "fwa_claims_found": 390,
+      "fwa_claims_total": 870,
+      "aed_caught": 604299,
+      "share_of_fwa_aed": 0.487,
+      "net_saving_aed": 506049
+    },
+    "rules_flag_volume": 499,
+    "rules_flag_precision": 0.7695,
+    "recall_by_scheme": {
+      "duplicate": 0.333,
+      "excessive_tests": 0.984,
+      "phantom": 0.365,
+      "unbundling": 1.0,
+      "upcoding": 0.993
+    },
+    "top10_provider_fwa_rate": 0.4448,
+    "example": [
+      {
+        "claim_id": "C0011579",
+        "diagnosis": "O80",
+        "procedures": "59400",
+        "amount": 9982.0,
+        "reasons": "Unusual cost and pattern for this diagnosis"
+      },
+      {
+        "claim_id": "D0000309",
+        "diagnosis": "O80",
+        "procedures": "59400",
+        "amount": 9173.45,
+        "reasons": "Near-identical claim submitted within 3 days"
+      },
+      {
+        "claim_id": "C0006260",
+        "diagnosis": "O80",
+        "procedures": "59400",
+        "amount": 8977.95,
+        "reasons": "Unusual cost and pattern for this diagnosis"
+      },
+      {
+        "claim_id": "C0021553",
+        "diagnosis": "S82.8",
+        "procedures": "99284 73590 27786 82306 80053 85025 84443 86803 99285",
+        "amount": 8684.53,
+        "reasons": "Lab tests far beyond what the diagnosis needs; Provider orders far more tests than peers"
+      },
+      {
+        "claim_id": "C0004789",
+        "diagnosis": "S82.8",
+        "procedures": "99284 73590 27786 99213 99213 99285",
+        "amount": 8664.86,
+        "reasons": "Same service code billed more than once"
+      }
+    ]
+  },
+  "beds": {
+    "test_days": 365,
+    "hospitals": 4,
+    "mae_beds": {
+      "fc_model": 17.82,
+      "fc_persistence": 20.07,
+      "fc_4wk_avg": 20.65
+    },
+    "mape": {
+      "fc_model": 0.0711,
+      "fc_persistence": 0.0843,
+      "fc_4wk_avg": 0.0865
+    },
+    "high_occupancy_days": 413,
+    "alert_recall": 0.5642,
+    "alert_precision": 0.6833,
+    "median_los_days": 3
+  }
+}

@@ -1,0 +1,19 @@
+[project]
+name = "uae-health-insurance-analytics"
+version = "1.0.0"
+description = "Health insurance claims fraud, waste and abuse detection and hospital bed occupancy forecasting for the UAE"
+authors = [{ name = "Vineetha Susan Alexander" }]
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 140
+target-version = "py310"
+
+[tool.ruff.lint]
+# essential checks: syntax errors and undefined names
+select = ["E9", "F63", "F7", "F82"]
